@@ -1,32 +1,32 @@
 {
   "tokens": [
     {
-      "token": "TOKEN_1",
+      "token": "OTg4Nzg1MDUwMzc4MTc0NTM2.G92gXT.CgWuTMqnMsrSyIvOQfWksbAFuvqMk2aK4pKDiY",
       "channels" : [
-        "CHANNEL_ID",
-        "CHANNEL_ID",
-        "CHANNEL_ID",
-        "CHANNEL_ID",
-        "CHANNEL_ID"
+        "1069491731814432798",
+        "1069491696091549736",
+        "1069491372131893339",
+        "1065230744449974302",
+        "1065080146878541824"
       ]
     },
     {
-      "token": "TOKEN_2",
+      "token": "OTg4NzUyNjczNTcyNTI4MTI4.GhTfkc.OIp1gxzOjpsLU4FKRUjc3yyowRP67FCd-NdqX8",
       "channels" : [
-        "CHANNEL_ID",
-        "CHANNEL_ID",
-        "CHANNEL_ID",
-        "CHANNEL_ID",
-        "CHANNEL_ID"
+        "1069491731814432798",
+        "1069491696091549736",
+        "1069491372131893339",
+        "1065230744449974302",
+        "1065080146878541824"
       ]
     }
   ],
-  "default_channel_id": "XXXX",
-  "log_channel_id": "XXXX",
-  "manager_id": "XXXX",
+  "default_channel_id": "1069491731814432798",
+  "log_channel_id": "1094492426728648774",
+  "manager_id": "976766020880568352",
   "owo_id": "408785106942164992",
-  "pray_id": "XXXX",
-  "emote_id": "XXXX",
+  "pray_id": "976766020880568352",
+  "emote_id": "988785050378174536",
   "settings": {
     "hunt": true,
     "battle": true,
