@@ -1,0 +1,48 @@
+{
+  "tokens": [
+    {
+      "token": "TOKEN_1",
+      "channels" : [
+        "CHANNEL_ID",
+        "CHANNEL_ID",
+        "CHANNEL_ID",
+        "CHANNEL_ID",
+        "CHANNEL_ID"
+      ]
+    },
+    {
+      "token": "TOKEN_2",
+      "channels" : [
+        "CHANNEL_ID",
+        "CHANNEL_ID",
+        "CHANNEL_ID",
+        "CHANNEL_ID",
+        "CHANNEL_ID"
+      ]
+    }
+  ],
+  "default_channel_id": "XXXX",
+  "log_channel_id": "XXXX",
+  "manager_id": "XXXX",
+  "owo_id": "408785106942164992",
+  "pray_id": "XXXX",
+  "emote_id": "XXXX",
+  "settings": {
+    "hunt": true,
+    "battle": true,
+    "owo": true,
+    "gamble": true,
+    "pray": true,
+    "random_message": true,
+    "emotes": true
+  },
+  "time": {
+    "afk": 70,
+    "hunt": 15,
+    "battle": 15,
+    "owo": 15,
+    "gamble": 300,
+    "random_message": 15,
+    "emote": 15
+  }
+}
